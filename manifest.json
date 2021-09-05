@@ -1,0 +1,178 @@
+{
+	
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://f48114f4-2002-4654-ae88-e0cbaf3cce8d",
+	"@type": "sc:Manifest",
+	"label": "Ira",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "Ira illustrations in Cambridge Corpus Christi College MS 23",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "Images courtesy of The Parker Library, Corpus Christi College, Cambridge.",
+	"sequences": [
+		{
+			"@id": "http://a9028ff4-e1ef-4359-853e-fbc634d28489",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://40369836-3c1b-4889-ae38-657d9b648578",
+					"@type": "sc:Canvas",
+					"label": "fol. 9r",
+					"height": 8466,
+					"width": 6538,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://6f40047d-24f2-42ff-a9ba-470090efa5e0",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://stacks.stanford.edu/image/iiif/nz663nv2057%252F023_009_R_TC_46/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://stacks.stanford.edu/image/iiif/nz663nv2057%252F023_009_R_TC_46",
+									"profile": "http://iiif.io/api/image/2/level2"
+								},
+								"height": 8466,
+								"width": 6538
+							},
+							"on": "http://40369836-3c1b-4889-ae38-657d9b648578"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://2e120d82-dd03-41ad-ba82-ce89c16a8858",
+					"@type": "sc:Canvas",
+					"label": "fol. 9v",
+					"height": 8418,
+					"width": 6466,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://b348fd75-8455-4542-ba22-16c202d93fa3",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://stacks.stanford.edu/image/iiif/nz663nv2057%252F023_009_V_TC_46/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://stacks.stanford.edu/image/iiif/nz663nv2057%252F023_009_V_TC_46",
+									"profile": "http://iiif.io/api/image/2/level2"
+								},
+								"height": 8418,
+								"width": 6466
+							},
+							"on": "http://2e120d82-dd03-41ad-ba82-ce89c16a8858"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://4c0955ca-1528-449b-81fa-a084c5151320",
+					"@type": "sc:Canvas",
+					"label": "fol. 10r",
+					"height": 8514,
+					"width": 6478,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://dc0aea47-ed51-45a6-82a3-7f698a25df77",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://stacks.stanford.edu/image/iiif/nz663nv2057%252F023_010_R_TC_46/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://stacks.stanford.edu/image/iiif/nz663nv2057%252F023_010_R_TC_46",
+									"profile": "http://iiif.io/api/image/2/level2"
+								},
+								"height": 8514,
+								"width": 6478
+							},
+							"on": "http://4c0955ca-1528-449b-81fa-a084c5151320"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://871837b3-d7ca-4a81-a93b-4b2bbd052154",
+					"@type": "sc:Canvas",
+					"label": "fol. 10v",
+					"height": 8466,
+					"width": 6358,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://71f32ec6-96f3-4ca8-acb0-da963178e1e8",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://stacks.stanford.edu/image/iiif/nz663nv2057%252F023_010_V_TC_46/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://stacks.stanford.edu/image/iiif/nz663nv2057%252F023_010_V_TC_46",
+									"profile": "http://iiif.io/api/image/2/level2"
+								},
+								"height": 8466,
+								"width": 6358
+							},
+							"on": "http://871837b3-d7ca-4a81-a93b-4b2bbd052154"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://58b402a6-18ff-493f-bd59-6b2170ff203f",
+					"@type": "sc:Canvas",
+					"label": "fol.11r",
+					"height": 8394,
+					"width": 6382,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://a70339cc-b2a4-4190-a351-bb0a12cbc496",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://stacks.stanford.edu/image/iiif/nz663nv2057%252F023_011_R_TC_46/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://stacks.stanford.edu/image/iiif/nz663nv2057%252F023_011_R_TC_46",
+									"profile": "http://iiif.io/api/image/2/level2"
+								},
+								"height": 8394,
+								"width": 6382
+							},
+							"on": "http://58b402a6-18ff-493f-bd59-6b2170ff203f"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+	
+
+}
